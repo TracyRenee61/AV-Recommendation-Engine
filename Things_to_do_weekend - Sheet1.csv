@@ -1,0 +1,102 @@
+Id,thing_to_do,have_done,rating
+1,make beds,yes,3
+2,mop floors,yes,3
+3,vacuum,yes,4
+4,clean toilet,yes,1
+5,dust furniture,yes,4
+6,clean windows,yes,2
+7,clean floorboards,yes,2
+8,clean sideboards,yes,2
+9,clean oven,yes,2
+10,clean mold off walls,yes,1
+11,paint room,yes,3
+12,wash dishes,yes,5
+13,wash clothes,yes,5
+14,iron clothes,yes,5
+15,bake a cake,yes,6
+16,make a pie,yes,6
+17,make a curry dish,yes,7
+18,make a chili dish,yes,7
+19,make spaghetti bolenaise,yes,7
+20,make sushi,no,7
+21,make tiramasu,no,8
+22,make carrot cake,yes,8
+23,make chocolate cake,yes,8
+24,make angelfood cake,no,8
+25,make bunt cake,no,8
+26,make strawberry shortcake,yes,8
+27,make fruitcake,yes,8
+28,make beef strogannauf,yes,8
+29,make tempura,no,8
+30,go to mcdonalds,yes,7
+31,go to wendys,yes,7
+32,go to all you can eat restaurant,yes,8
+33,go to maxican restaurant,yes,8
+34,go to chinese restaurant,yes,8
+35,go to italian restaurant,yes,8
+36,go to japanese restaurant,no,8
+37,go to subways restaurant,yes,7
+38,go to burger king,yes,7
+39,get an ice cream,yes,7
+40,go on a blind date,no,6
+41,see stepchildren,yes,4
+42,go to park,yes,6
+43,go swmming,yes,7
+44,go ice skating,no,7
+45,go rollar skating,yes,7
+46,eat fish and chips,yes,8
+47,get engaged,no,9
+48,get married,no,9
+49,throw birthday party,no,8
+50,retire from work,no,9
+51,go on vacation,yes,8
+52,go on staycation,yes,9
+53,go for a walk,yes,7
+54,go jogging,yes,7
+55,go bike riding,no,7
+56,go mountain climbing,no,7
+57,play american football,no,7
+58,play football (soccar),no,7
+59,play rugby,no,7
+60,go to the movies,yes,8
+61,see a play,yes,8
+62,see an opera,yes,7
+63,go to wax works museum,yes,6
+64,go to museum,yes,6
+65,go to art gallery,yes,6
+66,have a picnic,yes,6
+67,have a barbeque,yes,8
+68,go to new york city,no,9
+69,go to london,no,9
+70,take a plane,yes,8
+71,take a train,yes,8
+72,ride a bike,yes,6
+73,ride a motorbike,yes,6
+74,ride a scooter,yes,7
+75,drive a car,yes,7
+76,go scuba diving,no,7
+77,go camping,yes,7
+78,go to hollywood,no,8
+79,go to bournemouth,yes,8
+80,go to poole,yes,8
+81,go to isle of wight,yes,8
+82,go to summer school,yes,7
+83,practice yoga,yes,8
+84,get a massage,yes,9
+85,get a facial,yes,9
+86,get a manicure,yes,9
+87,get a pedicure,yes,9
+88,go shopping,yes,7
+89,go to seaworld,yes,8
+90,go to the zoo,yes,8
+91,go to a wildlife park,yes,8
+92,watch an american football game,yes,6
+93,go to a music concert,yes,7
+94,go to a pub,yes,7
+95,watch a youtube video,yes,5
+96,make a youtube video,yes,7
+97,read a book,yes,7
+98,write a book,yes,8
+99,write a blog post,yes,8
+100,work a part time job,yes,5
+101,sleep ,yes,5
