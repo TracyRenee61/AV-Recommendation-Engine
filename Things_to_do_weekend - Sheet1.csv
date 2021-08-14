@@ -96,7 +96,7 @@ Id,thing_to_do,genre,have_done,rating
 95,watch a youtube video,outing,yes,5
 96,make a youtube video,outing,yes,7
 97,read a book,outing,yes,7
-98,write a book,outing,yes,8
-99,write a blog post,outing,yes,8
+98,write a book,work,yes,8
+99,write a blog post,work,yes,8
 100,work a part time job,work,yes,5
 101,sleep ,self care,yes,5
