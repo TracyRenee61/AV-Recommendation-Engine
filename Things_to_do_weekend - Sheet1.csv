@@ -1,4 +1,4 @@
-Id,thing_to_do,genre,have_done,rating
+id,thing_to_do,genre,have_done,rating
 1,make beds,housework,yes,3
 2,mop floors,housework,yes,3
 3,vacuum,housework,yes,4
