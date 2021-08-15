@@ -201,3 +201,104 @@ user_id,activity_id,thing_to_do,genre,rating
 2,99,write a blog post,work,3
 2,100,work a part time job,work,2
 2,101,sleep ,self care,8
+3,1,make beds,housework,4
+3,2,mop floors,housework,4
+3,3,vacuum,housework,4
+3,4,clean toilet,housework,3
+3,5,dust furniture,housework,4
+3,6,clean windows,housework,4
+3,7,clean floorboards,housework,4
+3,8,clean sideboards,housework,3
+3,9,clean oven,housework,3
+3,10,clean mold off walls,housework,3
+3,11,paint room,housework,3
+3,12,wash dishes,housework,5
+3,13,wash clothes,housework,5
+3,14,iron clothes,housework,5
+3,15,bake a cake,cooking,4
+3,16,make a pie,cooking,4
+3,17,make a curry dish,cooking,4
+3,18,make a chili dish,cooking,4
+3,19,make spaghetti bolenaise,cooking,4
+3,20,make sushi,cooking,4
+3,21,make tiramasu,cooking,4
+3,22,make carrot cake,cooking,4
+3,23,make chocolate cake,cooking,4
+3,24,make angelfood cake,cooking,4
+3,25,make bunt cake,cooking,4
+3,26,make strawberry shortcake,cooking,4
+3,27,make fruitcake,cooking,4
+3,28,make beef strogannauf,cooking,4
+3,29,make tempura,cooking,4
+3,30,go to mcdonalds,eat out,5
+3,31,go to wendys,eat out,5
+3,32,go to all you can eat restaurant,eat out,5
+3,33,go to maxican restaurant,eat out,6
+3,34,go to chinese restaurant,eat out,6
+3,35,go to italian restaurant,eat out,6
+3,36,go to japanese restaurant,eat out,5
+3,37,go to subways restaurant,eat out,5
+3,38,go to burger king,eat out,6
+3,39,get an ice cream,eat out,6
+3,40,go on a blind date,dating,9
+3,41,see stepchildren,family,1
+3,42,go to park,outing,7
+3,43,go swmming,sports,7
+3,44,go ice skating,sports,7
+3,45,go rollar skating,sports,7
+3,46,eat fish and chips,eat out,5
+3,47,get engaged,family,9
+3,48,get married,family,9
+3,49,throw birthday party,outing,8
+3,50,retire from work,outing,9
+3,51,go on vacation,outing,8
+3,52,go on staycation,outing,7
+3,53,go for a walk,outing,8
+3,54,go jogging,sports,5
+3,55,go bike riding,sports,5
+3,56,go mountain climbing,sports,5
+3,57,play american football,sports,1
+3,58,play football (soccar),sports,1
+3,59,play rugby,sports,1
+3,60,go to the movies,outing,9
+3,61,see a play,outing,8
+3,62,see an opera,outing,7
+3,63,go to wax works museum,outing,7
+3,64,go to museum,outing,8
+3,65,go to art gallery,outing,7
+3,66,have a picnic,outing,8
+3,67,have a barbeque,outing,8
+3,68,go to new york city,outing,8
+3,69,go to london,outing,9
+3,70,take a plane,outing,9
+3,71,take a train,outing,8
+3,72,ride a bike,outing,2
+3,73,ride a motorbike,outing,1
+3,74,ride a scooter,outing,1
+3,75,drive a car,outing,8
+3,76,go scuba diving,sports,4
+3,77,go camping,outing,7
+3,78,go to hollywood,outing,9
+3,79,go to bournemouth,outing,8
+3,80,go to poole,outing,7
+3,81,go to isle of wight,outing,9
+3,82,go to summer school,schooling,9
+3,83,practice yoga,self care,5
+3,84,get a massage,self care,7
+3,85,get a facial,self care,9
+3,86,get a manicure,self care,9
+3,87,get a pedicure,self care,9
+3,88,go shopping,outing,8
+3,89,go to seaworld,outing,8
+3,90,go to the zoo,outing,8
+3,91,go to a wildlife park,outing,9
+3,92,watch an american football game,outing,2
+3,93,go to a music concert,outing,7
+3,94,go to a pub,outing,4
+3,95,watch a youtube video,outing,7
+3,96,make a youtube video,work,8
+3,97,read a book,outing,7
+3,98,write a book,work,3
+3,99,write a blog post,work,3
+3,100,work a part time job,work,3
+3,101,sleep ,self care,9
